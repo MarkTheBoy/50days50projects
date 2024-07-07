@@ -4,5 +4,8 @@
 2.Progress steps
 ![2](https://github.com/MarkTheBoy/50days50projects/assets/146758649/56da8fe6-9b25-4469-8177-0a631898d8b7)
 
+3. Expanding navigation
+![3](https://github.com/MarkTheBoy/50days50projects/assets/146758649/d543522f-781b-4274-8fe0-921c35077889)
+
 4. Hidden search widget
 ![4](https://github.com/MarkTheBoy/50days50projects/assets/146758649/2027f809-62a6-4c37-abb6-db81fa95fa25)
