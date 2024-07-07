@@ -1,4 +1,4 @@
-1.
+1. Expanding pictures
 ![1](https://github.com/MarkTheBoy/50days50projects/assets/146758649/888a7f29-0957-4967-b1d2-b1311811c465)
 
 4. Hidden search widget
