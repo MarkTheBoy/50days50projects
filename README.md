@@ -15,3 +15,9 @@
 
 6. Scroll animation
 ![6](https://github.com/MarkTheBoy/50days50projects/assets/146758649/fcb3b357-00a3-48d0-ab33-f058a360ab2e)
+
+7.Split landing page
+![7](https://github.com/MarkTheBoy/50days50projects/assets/146758649/6088cdd2-1549-4edd-ba6e-472a35e4b040)
+
+8.Form wawe
+![8](https://github.com/MarkTheBoy/50days50projects/assets/146758649/637230e1-de9e-44f8-b774-b206302d4a42)
