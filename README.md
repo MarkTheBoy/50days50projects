@@ -12,3 +12,6 @@
 
 5. Blurry loading
 ![5](https://github.com/MarkTheBoy/50days50projects/assets/146758649/a000632c-5f35-4a19-91e1-97dce6b50088)
+
+6. Scroll animation
+![6](https://github.com/MarkTheBoy/50days50projects/assets/146758649/fcb3b357-00a3-48d0-ab33-f058a360ab2e)
