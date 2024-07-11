@@ -27,3 +27,6 @@
 
 10. Dad jokes
 ![10](https://github.com/MarkTheBoy/50days50projects/assets/146758649/40cb3571-f510-4b0f-ba07-492523e6e0f9)
+
+11. Event keycodes
+![11](https://github.com/MarkTheBoy/50days50projects/assets/146758649/5c3a4329-7a75-44fd-9e7e-9a5d573e3187)
