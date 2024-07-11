@@ -24,3 +24,6 @@
 
 9. Sound board
 ![9](https://github.com/MarkTheBoy/50days50projects/assets/146758649/eb0bcb30-49d2-4f68-86fb-9ed580610d4d)
+
+10. Dad jokes
+![10](https://github.com/MarkTheBoy/50days50projects/assets/146758649/40cb3571-f510-4b0f-ba07-492523e6e0f9)
