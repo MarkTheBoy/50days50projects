@@ -30,3 +30,6 @@
 
 11. Event keycodes
 ![11](https://github.com/MarkTheBoy/50days50projects/assets/146758649/5c3a4329-7a75-44fd-9e7e-9a5d573e3187)
+
+12. FAQ collapse
+![12](https://github.com/MarkTheBoy/50days50projects/assets/146758649/2b7a34ee-a2d2-4384-b90c-0210a2194e52)
