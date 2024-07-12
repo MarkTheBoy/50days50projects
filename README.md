@@ -33,3 +33,9 @@
 
 12. FAQ collapse
 ![12](https://github.com/MarkTheBoy/50days50projects/assets/146758649/2b7a34ee-a2d2-4384-b90c-0210a2194e52)
+
+13. Random choice picker
+![13](https://github.com/user-attachments/assets/a56aede5-4329-4d7b-b36b-c6a3b878f25a)
+
+14. Animated navigation
+![14](https://github.com/user-attachments/assets/569b17e0-f047-460a-bab4-ef636c06a1b0)
