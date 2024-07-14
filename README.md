@@ -47,7 +47,7 @@
 ![16](https://github.com/user-attachments/assets/140ee4ba-d94e-4c3f-a7d1-a71ee0da9fa5)
 
 17. Movie app
-![17](https://github.com/user-attachments/assets/5a8c6c37-308a-479b-9d79-9577431d4cb3)
+![17](https://github.com/user-attachments/assets/6c8dd1d6-3b08-40fd-8cc7-c9c86417cb52)
 
 18. Background slider
 ![18](https://github.com/user-attachments/assets/5314717e-5827-44f7-af99-306546efdc6d)
