@@ -39,3 +39,9 @@
 
 14. Animated navigation
 ![14](https://github.com/user-attachments/assets/569b17e0-f047-460a-bab4-ef636c06a1b0)
+
+15. Incrementing counter
+![15](https://github.com/user-attachments/assets/4f165839-f07c-45b3-849f-595518271624)
+
+16. Drink water
+![16](https://github.com/user-attachments/assets/140ee4ba-d94e-4c3f-a7d1-a71ee0da9fa5)
