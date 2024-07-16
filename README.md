@@ -51,3 +51,9 @@
 
 18. Background slider
 ![18](https://github.com/user-attachments/assets/5314717e-5827-44f7-af99-306546efdc6d)
+
+19. Theme clock
+![19](https://github.com/user-attachments/assets/fd1e2a83-6272-4cae-a678-c01e80122c94)
+
+20. Button ripple
+![20](https://github.com/user-attachments/assets/1e7b3052-e6a5-4cb1-a2a9-5b87ce675b64)
