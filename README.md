@@ -63,3 +63,6 @@
 
 22. Drawing app
 ![22](https://github.com/user-attachments/assets/0927a08e-4a1d-4d70-916d-2b0aa9ebd3fe)
+
+23. Kinetic CSS loader
+![23](https://github.com/user-attachments/assets/f7cb48d7-6ed1-4c8e-8503-78367a1812e4)
