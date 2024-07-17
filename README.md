@@ -66,3 +66,6 @@
 
 23. Kinetic CSS loader
 ![23](https://github.com/user-attachments/assets/f7cb48d7-6ed1-4c8e-8503-78367a1812e4)
+
+24. Content placeholder
+![24](https://github.com/user-attachments/assets/5359168e-d3dd-434a-a0e6-62914738c3a2)
