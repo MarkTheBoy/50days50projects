@@ -69,3 +69,9 @@
 
 24. Content placeholder
 ![24](https://github.com/user-attachments/assets/5359168e-d3dd-434a-a0e6-62914738c3a2)
+
+25. Sticky navbar
+![25](https://github.com/user-attachments/assets/403fdef3-1baf-4aaa-998f-d5f397c59f61)
+
+26. Double vertical slider
+![26](https://github.com/user-attachments/assets/70f41974-a568-4971-8bcb-5c754edf1fca)
