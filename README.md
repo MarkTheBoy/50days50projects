@@ -75,3 +75,9 @@
 
 26. Double vertical slider
 ![26](https://github.com/user-attachments/assets/70f41974-a568-4971-8bcb-5c754edf1fca)
+
+27. Toast notification
+![27](https://github.com/user-attachments/assets/00882e43-1f6c-494f-bf48-1951c53f4adc)
+
+28. Github profiles
+![28](https://github.com/user-attachments/assets/4a70fb18-218f-44c7-8c35-9ebd436e98d6)
