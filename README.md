@@ -81,3 +81,9 @@
 
 28. Github profiles
 ![28](https://github.com/user-attachments/assets/4a70fb18-218f-44c7-8c35-9ebd436e98d6)
+
+29. Double heart click
+![29](https://github.com/user-attachments/assets/5b581b7b-38ea-4353-bd51-4e7c17560cc8)
+
+30. Auto text effect
+![30](https://github.com/user-attachments/assets/e8304e33-a358-460f-bc82-fe46aa58e218)
