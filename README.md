@@ -87,3 +87,9 @@
 
 30. Auto text effect
 ![30](https://github.com/user-attachments/assets/e8304e33-a358-460f-bc82-fe46aa58e218)
+
+31. Password generator
+![31](https://github.com/user-attachments/assets/a5addfa1-26d2-4e1b-a818-433be44baea0)
+
+32. Cheap fast and good checkboxes
+![32](https://github.com/user-attachments/assets/48ff4ee4-32f9-4d59-9302-bb2159184580)
