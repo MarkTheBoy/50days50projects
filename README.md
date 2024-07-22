@@ -93,3 +93,9 @@
 
 32. Cheap fast and good checkboxes
 ![32](https://github.com/user-attachments/assets/48ff4ee4-32f9-4d59-9302-bb2159184580)
+
+33. Notes app
+![33](https://github.com/user-attachments/assets/59107c33-389c-4977-9a6e-50dbbfaf3985)
+
+34. Animated countdown
+![34](https://github.com/user-attachments/assets/395b474a-2303-4e78-b877-5977cf05350a)
