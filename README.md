@@ -99,3 +99,9 @@
 
 34. Animated countdown
 ![34](https://github.com/user-attachments/assets/395b474a-2303-4e78-b877-5977cf05350a)
+
+35. Image carousel
+![35](https://github.com/user-attachments/assets/029c1214-d285-4e70-8d97-41ade3f300e7)
+
+36. Hoverboard
+![36](https://github.com/user-attachments/assets/c3c9bdd7-8cfe-4921-8590-c6fa6f1bcf20)
