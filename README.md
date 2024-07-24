@@ -105,3 +105,9 @@
 
 36. Hoverboard
 ![36](https://github.com/user-attachments/assets/c3c9bdd7-8cfe-4921-8590-c6fa6f1bcf20)
+
+37. Pokedex
+![37](https://github.com/user-attachments/assets/4393a482-facb-431f-bc31-a97618ebfb1c)
+
+38. Mobile tab navigation
+![38](https://github.com/user-attachments/assets/c0455ca9-2226-439e-b733-09a64b38fd70)
