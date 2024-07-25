@@ -111,3 +111,9 @@
 
 38. Mobile tab navigation
 ![38](https://github.com/user-attachments/assets/c0455ca9-2226-439e-b733-09a64b38fd70)
+
+39. Password strength background
+![39](https://github.com/user-attachments/assets/872cd320-9eca-469e-9701-d003ad6adfe2)
+
+40. 3D background
+![40](https://github.com/user-attachments/assets/d523e451-f560-4a6f-97b0-6cb0af387798)
