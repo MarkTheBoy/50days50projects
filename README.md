@@ -117,3 +117,9 @@
 
 40. 3D background
 ![40](https://github.com/user-attachments/assets/d523e451-f560-4a6f-97b0-6cb0af387798)
+
+41. Veriify account ui
+![41](https://github.com/user-attachments/assets/4d58f4b5-2863-426c-b389-bc823953003f)
+
+42. Live user filter
+![42](https://github.com/user-attachments/assets/7363e1d3-ffa3-40d7-b5aa-81ba5e3d99ca)
