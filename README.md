@@ -123,3 +123,9 @@
 
 42. Live user filter
 ![42](https://github.com/user-attachments/assets/7363e1d3-ffa3-40d7-b5aa-81ba5e3d99ca)
+
+43. Feedback UI design
+![43](https://github.com/user-attachments/assets/6383b297-abe4-4b76-97ea-9e63c6590fa8)
+
+44. Custom range slider
+![44](https://github.com/user-attachments/assets/da47c067-9785-46b0-b01b-5dccb3df42c2)
