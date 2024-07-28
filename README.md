@@ -129,3 +129,9 @@
 
 44. Custom range slider
 ![44](https://github.com/user-attachments/assets/da47c067-9785-46b0-b01b-5dccb3df42c2)
+
+45. Netflix mobile navigation
+![45](https://github.com/user-attachments/assets/c81ed868-4871-4443-9269-10ee00c63211)
+
+46. Quiz app
+![46](https://github.com/user-attachments/assets/cf3c6f88-25d6-4c1c-8006-77e62fc975a8)
