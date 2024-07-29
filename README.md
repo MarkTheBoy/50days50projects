@@ -135,3 +135,9 @@
 
 46. Quiz app
 ![46](https://github.com/user-attachments/assets/cf3c6f88-25d6-4c1c-8006-77e62fc975a8)
+
+47. Random image feed
+![47](https://github.com/user-attachments/assets/2cd67b15-e3bf-498e-8312-a8dccf1f7785)
+
+48. Todo list
+![48](https://github.com/user-attachments/assets/f78b3d5c-f80b-4738-96bd-a3e87d5a2efb)
