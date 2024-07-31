@@ -141,3 +141,6 @@
 
 48. Todo list
 ![48](https://github.com/user-attachments/assets/f78b3d5c-f80b-4738-96bd-a3e87d5a2efb)
+
+49. Insect cage game
+![49](https://github.com/user-attachments/assets/c43f9584-e483-48c6-b983-5e898ef41428)
