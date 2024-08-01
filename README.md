@@ -144,3 +144,6 @@
 
 49. Insect cage game
 ![49](https://github.com/user-attachments/assets/c43f9584-e483-48c6-b983-5e898ef41428)
+
+50. Simple timer
+![50](https://github.com/user-attachments/assets/2514edcf-bff4-4e65-86b8-cd93c28308f2)
